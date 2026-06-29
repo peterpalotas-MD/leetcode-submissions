@@ -12,6 +12,7 @@ Here's how this repo is laid out.
 ## Tests
 Alec suggested adding tests, and so for all future problems, I am making an effor to add tests. Please find below a list of problems with a set of written unit tests
 * 0005-longest-palindromic-substring
+* 0013-roman-to-integer
 
 ## PLEASE NOTE
 Whilst you will find only one solution for each problem, as the workflow syncs only the most recent one. However I do work thorugh problems and optimise my solutions as I go on. You can see this by how many problems I submit, against how many submissions I have on my account.
